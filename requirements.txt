@@ -1,0 +1,6 @@
+pip install numpy
+pip install pymongo
+pip install Keras==2.2.5
+pip install Flask==1.1.1
+pip install Pillow
+pip install scikit-learn

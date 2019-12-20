@@ -1,0 +1,7 @@
+.idea
+.vscode
+.git
+model
+__pycache__
+model_assets/images/
+ecosystem.config.js
