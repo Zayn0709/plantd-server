@@ -1,0 +1,1 @@
+You may need extract images.rar in model_assets
