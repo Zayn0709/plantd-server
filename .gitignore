@@ -5,3 +5,5 @@ model
 __pycache__
 model_assets/images/
 ecosystem.config.js
+node_modules/
+results.zip

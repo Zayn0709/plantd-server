@@ -1,0 +1,24 @@
+{
+  "name": "plantd-server",
+  "version": "1.0.0",
+  "description": "You may need extract images.rar in model_assets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zy0709/plantd-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zy0709/plantd-server/issues"
+  },
+  "homepage": "https://github.com/zy0709/plantd-server#readme",
+  "dependencies": {
+    "@types/mongodb": "^3.5.27",
+    "firebase-admin": "^9.2.0",
+    "mongodb": "^3.6.2"
+  }
+}

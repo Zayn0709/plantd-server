@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "plantd-utu-awards",
+  "private_key_id": "81ee4c38a6b778a9a2f3fa2c95bfe3ea4f4c3585",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDQgsWy1vtm64U0\nUTY4HYwXH2dMlx9hQNAe9gKVhDI1JIwh5VbksPr/N4N79T45mo2cFdWWNKjGtP/4\nhHOxHl28qnazp44YwnzAuDOt1R55G0HBzlbNhpD+VN488EgneBBikL5ofOf7SGNf\nFt+kATXrSYw9DWxsBhOBILrREsTsC505Zb5Fct7XirTgntuJCo9mNYQY6R75IieB\nKMx/eq7/IDp/KLTw4AomSCG1+6yQUQacVDksZ0j4xO/QiZ42dWK0t8H9yBniHe9F\nY39oqinQpJi0qCHj1MYgWyg38ufvLIS24MCBf2Pz46Q59edKlZ5ExnJeLyvLRuKd\nKE3mfqmfAgMBAAECggEANG0NBEBliaUiIttghI95T78HnAxLSYqgSYiVcb6BWTdN\nPKCLTojpMw5kMuCgup8Ph/U9dLzcyslrqrKy3A/EhdFecyFn6vXLpDEsXUK+nLir\nue0FijuRbUEtd6j6m2HmzMGT/nWZZmb3BUudA4GCaxxc9GTRo/+LG+Z80mCjvq1g\ntWbJJSyCMd5qt2bXjiVkQMvuT3x3K0Mmre7m71n9rhIJUk4hAGb9B3/kAFahVPkf\nl03ggq1x1IM3Um0dvQ8oNO5iqS59v6pYD3KoeXf3F0d8UX4dQ27q1TTzTxRPV4mM\n2vW7nNza653AXqblqT/ySz9a/FzZ+2d7xNKIkpn3EQKBgQDoo35NJmCkyJBEWAKX\nWlp8ny+t51GEGK+o+/wY1lsACJYP0gm+/eA4IvzMdPhkA2RqT5F2rA7Q4ZhmZHOd\nJMgzUNg8fylkNBejIYe+lNZT1Rffhl54MM4ZNQpk2eU3VT1ialOpODgMbRKw6X5P\nLqsX5oEmfom6TNNBnr24rUWpewKBgQDlcwSz9RFN8EUYipMlv2+vv7fUVqYTARlB\n0f2NcD+EFUYo/joI9PT8M2EHYnee/4pyONog63NWmIpYTajwmSqaHsKpg3MCJRcM\nofeoJ48YtJKqEJOSH3avV0MVZXRYJHgXkkRX2BO8MRQwnNJhg4Pu4AAofL9aD9g4\njpWgbDvtLQKBgQDil+y7hLf5iQlMKFVNysn8PKkaQAdcHRdsBxTDtHYqkDJp8nFf\nwLSWuS12kDAoak1yZ1IOPwSnXDUu9oTN+TevE/2q30kXus2TLWOktCAWw6ZfJ+f4\nNcFpOAqJtNrYjIQfyeT3HDUrlUnxW1yWD6TCwNfnALVx6saSUeYFbXA+5QKBgQDW\nzB4S+dEBTXThzJiENfqwZKILPjKqh9TFMXhT+Ej9tYzAw35A9FCD6PVknGGvjzpk\nQ6SwPLr0zkh08f69fiXLshA58LyxvVcelGHsIVxsnF7QpkP//0R0URST6y5HdZyX\nNG6WbcnL24YzHBw2/Y99CGYdgOsBvOOFzrV0QN644QKBgQCIyOXmjwZ0NRGZeUQM\nMtbzx07ms/sHrlYTo6xbdS/9c/U3tjwWmDcNFJ+97jQnyW6owQPX7D+3/Dm10nJh\nUlD4qwmlc5u78bwxVmTF0AX7ekfcCnVt2jXnlrud4ntpDTN3bHqhpm198l+GcAJ6\ndnHVZb3aH/uyim+RyYo2EVNVUg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-a38kk@plantd-utu-awards.iam.gserviceaccount.com",
+  "client_id": "107043369227105331881",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-a38kk%40plantd-utu-awards.iam.gserviceaccount.com"
+}
